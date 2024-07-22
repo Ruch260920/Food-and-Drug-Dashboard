@@ -8,9 +8,7 @@ The DVS-4 Tableau workbook provides an interactive visualization of [describe th
 The workbook package contains the following components:
 
 DVS-4.twb: The main Tableau workbook file.
-Data: Directory containing the data sources used in the workbook.
-Data Sources
-The data sources included in the Data directory are:
+Blueprint : Directory containing the data sources used in the workbook.
 
 # Usage
 To use this Tableau workbook:
